@@ -15,4 +15,4 @@ Nothing — it's just a place to practice. Feel free to fork it or use it as a r
 
 - Learn how to open a PR from the command line
 - Get comfortable with the branch -> commit -> push -> PR loop
-- Recieve feedback on a change through the PR review flow
+- Receive feedback on a change through the PR review flow
